@@ -11,7 +11,7 @@ The source can be anything. It can be a simple file on your file system, a buffe
 <br>source - https://www.sitepoint.com/basics-node-js-streams/
 
 
-Buffers:
+## Buffers:
 - temporary storage spot for a chunk of data that is being transferred from one place to another
 - the buffer is filled with data, then passed along
 - transfer small chunks of data at a time
